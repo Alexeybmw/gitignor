@@ -398,7 +398,7 @@ FodyWeavers.xsd
 *.sln.iml
 tmp/
 *_old
-*_backup
+*png_backup
 Thumbs.db
 .DS_Store
 
